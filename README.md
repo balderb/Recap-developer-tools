@@ -25,7 +25,7 @@
 
 5. When you hover over your HTML code with your mouse you will see that the selected elements and tags will light up inside of the browser. This way you can 'inspect' which part of the HTML stands for which part of the website and what is happening under the hood in case you're drawning in your source code :D . Within the styles tab you can see what your CSS code is doing by hovering over the CSS code and selecting/de-selecting the chechboxes (in blue). Try it out! 
 
-### Using source code from another webpage using developer tools
+### Using source code from another webpage through developer tools
 
 6. Imagine you see an interesting image or button on a specific website and want to "add" it to your own code. For example on my visited webpage now, i find the "chrome download" button really interesting, so i can search for the code of that particular button in the Elements tab + Styles tab, hover over it with my mouse cursor, right click on it and copy the source code. When you back to your text editor you can simply copy-paste it and test it on your own page. So much fun! :D
 
