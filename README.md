@@ -35,7 +35,7 @@
 
 ![screenshot](https://github.com/balderb/recap-developer-tools-/blob/master/Screen%20Shot%202020-06-19%20at%2010.23.00.png)
 
-8. When you hover over it shows "select an element in the page to inspect it". Go and select it (for mac users shortcut command + up + C)! Now, when you look at the browser and hover over your content you'll see that it works the other way around. Your HTML will be light up, depending on the elements you hover over in the browser. It simplifies the process a bit and you won't be lost in the source code within the Elements tab.
+8. When you hover over it shows "select an element in the page to inspect it". Go and select it (for mac users shortcut command + up + C)! Now, when you look at the browser and hover over your content you'll see that it works the other way around. Your HTML will be light up, depending on the elements you hover over in the browser. It simplifies the process a little and you won't be lost in the source code within the Elements tab.
 
 ## Responsiveness in developer tools
 
