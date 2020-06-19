@@ -3,7 +3,7 @@ Recap developer tools in the browser (google chrome)
 
 1. A way to really visualize your code is by opening your code in the browser and choose for the option developer tools in your browser. It's a tool that is very usefull and quite often used by developers. This is really interesting, especially when it comes to testing of responsiveness of your webpage and what's happening under the hood when we switch devices (computer, tablad, smartphone, etc..).
 
-2. I use google chrome deveveloper tools, but these developer tools should be availabe in any browser (Safari, Firefox, Edge etc..) with a few differences between the browsers maybe in layout or build-up. The functionality should be more or less the same ;) 
+2. I use google chrome deveveloper tools, but these developer tools should be availabe in any browser (Safari, Firefox, Edge etc..) with a few differences between the browsers maybe in layout or build-up. The functionality should be more or less the same! 
 
 3. You can go to dev tools in the browser by right-clicking anywhere on the current webpage you're visiting within the browser and select 'inspect' (for mac users the shortcut alt + cmmnd + I).
 
