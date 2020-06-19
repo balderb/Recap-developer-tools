@@ -23,4 +23,4 @@ Recap developer tools in the browser (google chrome)
 
 11. Within the browser (still inside of the toggle device toolbar) you can also click 'responsive' now. Here you will be able to drag the web browser screen to the left or right (make it wide/ narrow or large/small) and look at the width size of your current position. You'll see that you do have a sublist of devices you can test your web page with (from computer screens to the latest ipad or iphone!). 
 
-12. I hope this was helpful  :)
+12. I hope this was helpfull  :)
