@@ -1,7 +1,7 @@
 # Recap-developer-tools
 ## Recap developer tools in the browser (google chrome)
 
-1. A way to really visualize your code is by opening your code in the browser and choose for the option developer tools in your browser. It's a tool that is very usefull and quite often used by developers. This is really interesting, especially when it comes to testing of responsiveness of your webpage and what's happening under the hood when we switch devices (computer, tablad, smartphone, etc..).
+1. A way to really visualize your code in the browser and understand what is going on under the hood of the browser is by using developer tools. It's a build-in tool of browsers that can be very usefull and quite often used by developers. It's especially interesting when it comes to testing of responsiveness of your webpage and what's happening under the hood when we switch devices (computer, tablad, smartphone, etc..).
 
 ![screenshot](https://github.com/balderb/recap-developer-tools-/blob/master/Screen%20Shot%202020-06-19%20at%2010.11.18.png)
 
