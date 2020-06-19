@@ -5,7 +5,7 @@
 
 ![screenshot](https://github.com/balderb/recap-developer-tools-/blob/master/Screen%20Shot%202020-06-19%20at%2010.11.18.png)
 
-### What is developer tools all about?
+## What is developer tools all about?
 
 2. I use google chrome deveveloper tools, but these developer tools should be availabe in any browser (Safari, Firefox, Edge etc..) with a few differences between the browsers maybe in layout or build-up. The functionality should be more or less the same! 
 
@@ -13,7 +13,7 @@
 
 ![screenshot](https://github.com/balderb/recap-developer-tools-/blob/master/Screen%20Shot%202020-06-19%20at%2010.19.59.png)
 
-### Let's get to know developer tools
+## Let's get to know developer tools
 
 4. Once we're in the (in this case chrome) dev. tools there are a few interesting tabs as you can see. For now we will look only at two tabs. The 'Elements tab' and the 'Styles tab'. The Elements tab will show your HTML. The Styles tab displays your CSS code.
 
@@ -25,7 +25,7 @@
 
 5. When you hover over your HTML code with your mouse you will see that the selected elements and tags will light up inside of the browser. This way you can 'inspect' which part of the HTML stands for which part of the website and what is happening under the hood in case you're drawning in your source code :D . Within the styles tab you can see what your CSS code is doing by hovering over the CSS code and selecting/de-selecting the chechboxes (in blue). Try it out! 
 
-### Using source code from another webpage through developer tools
+## Using source code from another webpage through developer tools
 
 6. Imagine you see an interesting image or button on a specific website and want to "add" it to your own code. For example on my visited webpage now, i find the "chrome download" button really interesting, so i can search for the code of that particular button in the Elements tab + Styles tab, hover over it with my mouse cursor, right click on it and copy the source code. When you back to your text editor you can simply copy-paste it and test it on your own page. So much fun! :D
 
@@ -37,7 +37,7 @@
 
 8. When you hover over it shows "select an element in the page to inspect it". Go and select it (for mac users shortcut command + up + C)! Now, when you look at the browser and hover over your content you'll see that it works the other way around. Your HTML will be light up, depending on the elements you hover over in the browser. It simplifies the process a bit and you won't be lost in the source code within the Elements tab.
 
-### Responsiveness in developer tools
+## Responsiveness in developer tools
 
 9. Finally, when it comes to responsiveness in the process of device testing, you can click the icon right next to the previous feature. It's called the "Toggle device toolbar". Click that! 
 
