@@ -1,4 +1,4 @@
-# Recap-developer-tools
+# Recap google chrome developer tools
 ## Recap developer tools in the browser (google chrome)
 
 ```Sidenode: This tool has been build during my web dev course @Becode to explain to fellow classmates the many features and functionalities of the google developers toolbox in the webbrowser. This presentation has been done by using a livecoding session. Below I will leave notes of this livecoding session.```
