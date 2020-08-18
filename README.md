@@ -1,6 +1,8 @@
 # Recap-developer-tools
 ## Recap developer tools in the browser (google chrome)
 
+```Sidenode: This tool has been build during my web dev course @Becode to explain to fellow classmates the many features and functionalities of the google developers toolbox in the webbrowser. This presentation has been done by using a livecoding session. Below I will leave notes of this livecoding session.```
+
 1. A way to really visualize your code in the browser and understand what is going on under the hood of the browser is by using developer tools. It's a build-in tool of browsers that can be very usefull and quite often used by developers. It's especially interesting when it comes to testing of responsiveness of your webpage and what's happening under the hood when we switch devices (computer, tablad, smartphone, etc..).
 
 ![screenshot](https://github.com/balderb/recap-developer-tools-/blob/master/Screen%20Shot%202020-06-19%20at%2010.11.18.png)
